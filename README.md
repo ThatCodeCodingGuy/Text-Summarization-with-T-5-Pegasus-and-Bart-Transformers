@@ -1,5 +1,5 @@
 # Text-Summarization-with-T5-Pegasus-and-Bart-Transformers
-This project uses T5, Pegasus and Bart transformers with HuggingFace library for text summarization applied on a news dataset in Kaggle.
+This project uses T5, Pegasus and Bart transformers with HuggingFace for text summarization applied on a news dataset in Kaggle.
 
 By HuggingFace library, I use "t5-base" model of T5, "google/pegasus-xsum" model of Pegasus and "facebook/bart-large-cnn" model of Bart transformers to summarize the news
 texts in the dataset. 
